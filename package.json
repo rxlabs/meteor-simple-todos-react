@@ -7,7 +7,7 @@
     "url": "https://github.com/rxlabs/meteor-simple-todos-react.git"
   },
   "scripts": {
-    "lint": "standard"
+    "test": "standard && meteor lint"
   },
   "private": true,
   "license": "MIT",
