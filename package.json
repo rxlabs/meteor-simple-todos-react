@@ -1,0 +1,17 @@
+{
+  "name": "meteor-simple-todos-react",
+  "description": "Meteor todo app with React",
+  "author": "Evan Sosenko <razorx@evansosenko.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rxlabs/meteor-simple-todos-react.git"
+  },
+  "scripts": {
+    "lint": "standard"
+  },
+  "private": true,
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^5.3.1"
+  }
+}
